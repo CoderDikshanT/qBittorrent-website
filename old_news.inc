@@ -1,4 +1,4 @@
-<h3>Saturday December 17th 2016 - qBittorrent v3.3.10 release</h3>
+<h3>Wednesday September 30, 2020 - qBittorrent v3.3.10 release</h3>
 <p>qBittorrent v3.3.10 was released containing hotfixes. Windows users: There is an installer for 64-bit qbittorrent. However, you <b>might</b> experience increased memory usage due to this.
 <br><b>NOTICE TO PACKAGERS:</b> Read 3.3.8 news and changelog too.</p>
 <ul>
